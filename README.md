@@ -1,2 +1,2 @@
-# hellow
-My first Github page repository
+# hello
+My first GitHub page repository
